@@ -1,0 +1,26 @@
+h1{
+    color: yellow;
+    background-color: green;
+}
+p{
+    color: red;
+    background-color: aqua;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+}
+.first{
+    background-color: darkorange;
+}
+
+.second{
+    background-color: darkslategrey;
+} 
+
+
+#w1{
+    background-color: brown;
+}
